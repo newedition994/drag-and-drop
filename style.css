@@ -24,3 +24,8 @@ body {
   border: solid 3px slateblue;
   background: white;
 }
+
+.hovered {
+  background: #f4f4f4;
+  border-style: dashed;
+}
